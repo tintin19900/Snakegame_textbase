@@ -1,0 +1,5 @@
+﻿  Snakegame.cpp
+C:\Users\ASUS TUF GAMING\MVS2022\SnakeGame\Snakegame\Snakegame.cpp(123,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS TUF GAMING\MVS2022\SnakeGame\Snakegame\Snakegame.cpp(123,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS TUF GAMING\MVS2022\SnakeGame\Snakegame\Snakegame.cpp(358,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snakegame.vcxproj -> C:\Users\ASUS TUF GAMING\MVS2022\SnakeGame\Snakegame\x64\Debug\Snakegame.exe
